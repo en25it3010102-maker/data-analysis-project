@@ -44,9 +44,9 @@ The project transforms the dataset into visualisations, an interactive dashboard
 ## Tableau Public
 
 - Dashboard:
-  
+  https://public.tableau.com/app/profile/tanvi.dhelawat/viz/Book1_17934526796070/OlympicGamesDataAnalysisDashboard?publish=yes
 - Story:
-  
+  https://public.tableau.com/app/profile/tanvi.dhelawat/viz/Book1_Story_17934529725800/OlympicGamesDataAnalysisStory?publish=yes
 
 ## Dataset
 
